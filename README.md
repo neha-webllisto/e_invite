@@ -12,6 +12,7 @@
 
 ---Git commands--------------
 
+1. git branch -> this command show us branches
 1. git branch -r -> this command show us branches
 2. git checkout dev -> this command change the working branch
 3. git checkout -b rekha ->this command used for create new branch
